@@ -17,7 +17,6 @@ public class _1629 {
         long A = 2;
         long B = 6;
         long C = 11;
-        A의B제곱(A,B,C);
     }
 
     public static void A의B제곱(long A, long B, long C){
